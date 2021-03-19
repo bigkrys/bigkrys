@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bigkrys
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @bigkrys krysliang 梁婉玲
+- 👀 I’m interested in Sleeping an Eating
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on some project of Node.js
+- 📫 Contact me krysliang@163.com
 
 <!---
 bigkrys/bigkrys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
