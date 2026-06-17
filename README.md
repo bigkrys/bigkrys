@@ -9,6 +9,7 @@ Full-stack engineer. I like building things that actually ship — from AI produ
 | **[React MindFlow](https://github.com/bigkrys/react-mindflow)** | Open-source mind map component. React + AntV G6. |
 | **[Nebula MFE](https://github.com/bigkrys/nebula-mfe)** | Micro-frontend toolkit. Module Federation + cross-app state sharing. |
 | **[Logic Pro MCP](https://github.com/bigkrys/logic-pro-mcp)** | Letting AI agents operate Logic Pro. Early-stage experiment. |
+| **[Radar Skill](https://github.com/bigkrys/radar-skill)** | AI signal monitoring — tracks AI labs, HN, GitHub trending, distills into engineering briefings. |
 
 ## Lately
 
