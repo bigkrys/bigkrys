@@ -7,7 +7,7 @@ Full-stack engineer. I like building things that actually ship — from AI produ
 | Project | What it does |
 |---------|-------------|
 | **[React MindFlow](https://github.com/bigkrys/react-mindflow)** | Open-source mind map component. React + AntV G6. |
-| **[Nebula MFE](https://github.com/bigkrys/nebula-mfe)** | Micro-frontend toolkit. Module Federation + cross-app state sharing. |
+| **[TradingDesk](https://github.com/bigkrys/TradingDesk)** | AI trading research workstation — multi-agent analysis streamed live over WebSocket, with a paper portfolio that auto-verifies every AI decision against SPY. Next.js · FastAPI · PostgreSQL. |
 | **[Logic Pro MCP](https://github.com/bigkrys/logic-pro-mcp)** | Letting AI agents operate Logic Pro. Early-stage experiment. |
 | **[Radar Skill](https://github.com/bigkrys/radar-skill)** | AI signal monitoring — tracks AI labs, HN, GitHub trending, distills into engineering briefings. |
 
