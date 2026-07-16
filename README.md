@@ -6,8 +6,9 @@ Full-stack engineer. I like building things that actually ship — from AI produ
 
 | Project | What it does |
 |---------|-------------|
+| **[TradingDesk](https://github.com/bigkrys/TradingDesk)** | AI trading research workstation for US & HK equities — multi-agent + investor-persona analysis streamed 
 | **[React MindFlow](https://github.com/bigkrys/react-mindflow)** | Open-source mind map component. React + AntV G6. |
-| **[TradingDesk](https://github.com/bigkrys/TradingDesk)** | AI trading research workstation for US & HK equities — multi-agent + investor-persona analysis streamed live over WebSocket, daily pre-market holdings review, and an auto-verified decision track record vs SPY. Next.js · FastAPI · PostgreSQL.|
+live over WebSocket, daily pre-market holdings review, and an auto-verified decision track record vs SPY. Next.js · FastAPI · PostgreSQL.|
 | **[Logic Pro MCP](https://github.com/bigkrys/logic-pro-mcp)** | Letting AI agents operate Logic Pro. Early-stage experiment. |
 | **[Radar Skill](https://github.com/bigkrys/radar-skill)** | AI signal monitoring — tracks AI labs, HN, GitHub trending, distills into engineering briefings. |
 
