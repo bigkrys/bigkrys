@@ -7,7 +7,6 @@ actually ship: AI products, indie apps, and the occasional song.
 
 | Product | What it is |
 |---------|------------|
-| **[LUME](https://krysliang.xyz)** | AI wellness app on the App Store — 0→1 solo: product, design, full-stack, launch. React Native · NestJS. |
 | **[Poem Island 诗屿](https://github.com/bigkrys/poemisland)** | Write down a feeling, receive a classical Chinese poem and an island of light. Live on Railway. Next.js · canvas-rendered aurora orb · LLM poem selection with graceful fallback. |
 
 ## Open source & experiments
